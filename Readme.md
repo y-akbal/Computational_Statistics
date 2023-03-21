@@ -7,5 +7,5 @@ Briefly Content-
 2) Further Goygoying with Python
 3) Random Number Generation
 4) Random Process Generation
-5) In Memoriam of Monte Carlo
+5) In Memoriam of Monte Carlo (RIP, whom we owe the notion of sampling)
 
