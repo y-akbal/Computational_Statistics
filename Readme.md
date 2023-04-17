@@ -8,7 +8,7 @@ Brief Content-
 3) Random Number Generation,
 4) In Memoriam of Monte Carlo (RIP) whom we owe the notion of sampling,
 5) Variannce Reduction and further Monte Carlo business,
-6) Variance Reduction cont'd
-7) Monte Carlo Inference stuff
+6) Variance Reduction cont'd,
+7) Monte Carlo Inference stuff,
 
 
