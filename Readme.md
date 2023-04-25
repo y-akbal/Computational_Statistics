@@ -10,5 +10,7 @@ Brief Content-
 5) Variannce Reduction and further Monte Carlo business,
 6) Variance Reduction cont'd,
 7) Monte Carlo Inference stuff,
+8) Some furthre Monte Carlo if you are still there, and some Bootstrap and Jackknife stuff,
+
 
 
